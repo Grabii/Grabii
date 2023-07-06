@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Gabriel 😁
 
  <div>
-   <a href="https://github.com/Grabii">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grabii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grabii&layout=compact&langs_count=6&theme=dark"/>
+   <a href="https://github.com/Gabbr1">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -20,6 +20,6 @@
   <a href="https://www.instagram.com/_gabbr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-gabriel-179056266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Grabii/Grabii/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabbr1/Gabbr1/blob/output/github-contribution-grid-snake.svg)
 
 </div>
