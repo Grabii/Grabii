@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel 😁
+# Bem-vindo(a) ao perfil do Gabriel 😁
 
 <div> 
   <a href="https://www.linkedin.com/in/felipe-gabriel-179056266/" alt="Linkedin">
