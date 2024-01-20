@@ -1,13 +1,5 @@
 ## Bem-vindo(a) ao perfil do Gabriel 😁
 
- <div>
-   <a href="https://github.com/Gabbr1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1&layout=compact&langs_count=6&theme=dark"/>
-
-</div>
- <br>
- 
 <div> 
   <a href="https://www.linkedin.com/in/felipe-gabriel-179056266/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/felipe-gabriel-179056266/" /></a> 
@@ -17,26 +9,15 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176"/></a>
   <p align="center">
 </div>
-</p>
+ 
+ <div>
+   <a href="https://github.com/Gabbr1">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1&layout=compact&langs_count=6&theme=dark"/>
 
-<p align="center">
-  <a href="https://github.com/Gabbr1">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=Gabbr1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/Gabbr1">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-
-
+</div>
+ <br>
+ 
 <p align="center">
   <a href="https://github.com/Gabbr1">
     <img
